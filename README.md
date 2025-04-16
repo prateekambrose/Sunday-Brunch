@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sunday Brunch at SPICE</title>
+  <title>Sunday Big Brunch Story at SPICE</title>
   <style>
     body {
       margin: 0;
